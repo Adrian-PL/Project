@@ -30,8 +30,6 @@ def main():
 
     game_map = GameMap(map_width, map_height)
 
-    entity = Entity
-
     key = libtcod.Key()
     mouse = libtcod.Mouse()
 
