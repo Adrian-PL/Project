@@ -56,9 +56,6 @@ def main():
             if not game_map.is_blocked(player.x + dx, player.y + dy):
                 player.move(dx, dy)
 
-            if not entity.us_blocked(player.x + dx, player.y + dy):
-                player.move(dx, dy)
-
         if exit:
             return True
 
