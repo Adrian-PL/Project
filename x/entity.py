@@ -12,7 +12,3 @@ class Entity:
         # Move the entity by a given amount
         self.x += dx
         self.y += dy
-        
-    def us_blocked(self, x, y):
-        if self.entities[x][y].blocked:
-            return True
