@@ -22,7 +22,8 @@ Core:
 Basics:
 
 - simultaneous turns / normal turns / real-time and turn system hybrid as type of gameplay's flow
-- initially represented as characters, then as 2D/2.5D sprites ( possibly cartoon Vault Boy style if Fallout project ) , possibly 3D in the future / characters only / characters and sprites / all free to choose by player
+- initially represented as characters, then as 2D/2.5D sprites , possibly 3D in the future / characters only / characters and sprites / all free to choose by player
+- graphic style - possibly cartoon Vault Boy style if Fallout project / realistic
 - initially without sound effects and music, then with them / without sounds only 
 
 Advanced:
