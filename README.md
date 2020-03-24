@@ -1,6 +1,6 @@
 # Project
 
-Inspired by Fallout series -, Jupiter Hell and DRL - by ChaosForge
+Inspired by Fallout series - by Black Isle Studios/Bethesda Game Studios, Jupiter Hell and DRL - by ChaosForge and Robinson by aaron_ds
 
 ! DISCLAIMER ! - The software presented here is fully fan-made and non-commercial project. I am not legal owner of Fallout franchise. Fallout's intelectual property belongs to Bethesda Softworks. I would publish game as freeware ( also open-source if necessary ) and foremost only after having legally valid authorization from legal owners of franchise. Project will be terminated and removed from my official Internet resources immediately and redesigned to not violate Fallout's intelectual property before publishing as different project, if legal owners wish so.
 
