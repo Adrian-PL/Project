@@ -31,6 +31,8 @@ Advanced:
 - SPECIAL, skills and perks OR original RPG system
 - deep dialogue system
 - expanded universe with lot of text to read
+- presence of charismatic and believable characters
+- hardcore difficulty and high realism
 
 Potential:
 
