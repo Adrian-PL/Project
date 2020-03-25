@@ -2,7 +2,14 @@
 
 ! DISCLAIMER ! - The software presented here is fully fan-made and non-commercial project. I am not legal owner of Fallout franchise. Fallout's intelectual property belongs to Bethesda Softworks. I would publish game as freeware ( also open-source if necessary ) and foremost only after having legally valid authorization from legal owners of franchise. Project will be terminated and removed from my official Internet resources immediately and redesigned to not violate Fallout's intelectual property before publishing as different project, if legal owners wish so.
 
-Inspired by Fallout series - by Black Isle Studios/Bethesda Game Studios, Jupiter Hell and DRL - by ChaosForge and Robinson by aaron_ds
+Inspired by:
+
+- Fallout series by Black Isle Studios/Bethesda Game Studios - as core inspiration to create very own game and possible universe for game
+- Jupiter Hell and DRL by ChaosForge - as inspiration from technical and mechanical point of view
+- Silent Hill 2 by Team Silent - as inspiration for deep mature emotional and disturbing stories and meaningful personalities
+- Planescape: Torment by Black Isle Studios - as inspiration for dialogues, philosophical deepness of story and characters
+- Smile Guides videos by Wiktor Stribog - as inspiration in some artistic design and as intriguing conspiracy theory relating to nuclear war
+- 
 
 Author - One person - nicknamed AdiPL
 
