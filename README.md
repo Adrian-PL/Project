@@ -20,10 +20,10 @@ Fallout, the Roguelike - FalloutRL (FRL) OR Project (temporary name)
 
 Core:
 
-- Mobile ( Android, iOS optional ) / Mobile and PC ( Mobile as priority, PC optional ) / PC game ( Windows and possibly Linux, Mac compatible in the future )
+- Mobile ( Android, iOS optional ) / Mobile and PC ( Mobile as priority, PC optional )
 - Roguelike/Roguelite set in Fallout universe OR set in self-made historically alternative post-nuclear universe
 - Freeware (possibly open-source in the future) OR commercial closed-source (possibly freeware with ads on Mobile), optional Freeware
-- Coded in Python/Kotlina/Lua/game engine of choice
+- Coded in Kotlina/Lua/game engine of choice
 
 Basics:
 
