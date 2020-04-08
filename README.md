@@ -20,10 +20,10 @@ Fallout, the Roguelike - FalloutRL (FRL) OR Project (temporary name)
 
 Core:
 
-- Mobile ( Android, iOS optional ) / Mobile and PC ( Mobile as priority, PC optional )
+- Mobile and PC ( Mobile as priority )
 - Roguelike/Roguelite set in Fallout universe OR set in self-made historically alternative post-nuclear universe
 - Freeware (possibly open-source in the future) OR commercial closed-source (possibly freeware with ads on Mobile)
-- Coded in Kotlin
+- Coded in Kotlin in Android Studio
 
 Basics:
 
