@@ -10,7 +10,7 @@ Inspired by:
 - Planescape: Torment by Black Isle Studios - as inspiration for dialogues, philosophical deepness of story and characters
 - Smile Guides videos by Wiktor Stribog - as inspiration in some artistic design and as intriguing conspiracy theory relating to nuclear war
 
-Author - One person - nicknamed AdiPL
+Author - One person - nicknamed Adi
 
 0. Name
 
