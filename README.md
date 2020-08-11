@@ -43,5 +43,5 @@ Advanced:
 Potential:
 
 - lost games affect next ones like corpse of player or things changed in universum
-- world and its history is generated each time the game is played 
-
+- world and its history is generated each time the game is played
+- unfair difficulty, situations impossible to reslove, " cheating " characters - just like in life
