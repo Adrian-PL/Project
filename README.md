@@ -16,7 +16,7 @@ Author - AdiPL
 Core:
 
 - Mobile and PC ( Mobile as priority )
-- Roguelike/Roguelite set in realistic historically alternative post-nuclear universe (after 1983 nuclear crisis turned into doomsday and l)
+- Roguelike/Roguelite set in realistic historically alternative post-nuclear universe (after 1983 nuclear crisis turned into doomsday)
 - Commercial closed-source (possibly freeware with ads on Mobile)
 - Coded in Kotlin in Android Studio
 
