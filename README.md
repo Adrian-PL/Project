@@ -2,7 +2,7 @@
 
 Inspired by:
 
-- Fallout series by Black Isle Studios/Bethesda Game Studios - as core inspiration in general and as the biggest inspiration to create very own game
+- Fallout series by Black Isle Studios/Bethesda Game Studios - as core inspiration in general and as the biggest one to create very own game
 - Jupiter Hell and DRL by ChaosForge - as inspiration from technical and mechanical point of view
 - Silent Hill 2 by Team Silent - as inspiration for deep mature emotional and disturbing stories and meaningful personalities
 - Planescape: Torment by Black Isle Studios - as inspiration for meaningful dialogues, philosophical deepness of story and characters
