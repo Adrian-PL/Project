@@ -22,7 +22,7 @@ Core:
 
 Basics:
 
-- simultaneous turns / normal turns / real-time and turn system hybrid as type of gameplay's flow
+- simultaneous turns / normal turns
 - initially represented as characters, then as 2D/2.5D sprites , finally as 3D models (possibly all modes free to choose by player)
 - realistic graphic style
 - initially without sound effects and music, then with them
