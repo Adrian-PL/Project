@@ -1,31 +1,21 @@
 # Project
 
-Inspired by:
+Project by AdrianPL
 
-- Fallout series by Black Isle Studios/Bethesda Game Studios - as core inspiration in general and as the biggest one to create very own game
-- Jupiter Hell and DRL by ChaosForge - as inspiration from technical and mechanical point of view
-- Silent Hill 2 by Team Silent - as inspiration for deep mature emotional and disturbing stories and meaningful personalities
-- Planescape: Torment by Black Isle Studios - as inspiration for meaningful dialogues, philosophical deepness of story and characters
-
-Author - AdiPL
-
-1. Name - Project (temporary name)
-
-1. Features
+FEATURES
 
 Core:
 
-- Mobile and PC ( Mobile as priority )
+- Mobile
 - Roguelike/Roguelite set in realistic historically alternative post-nuclear universe (after 1983 nuclear crisis turned into doomsday)
-- Commercial closed-source (possibly freeware with ads on Mobile)
+- Commercial closed-source
 - Coded in Kotlin in Android Studio
 
 Basics:
 
-- simultaneous turns / normal turns
-- initially represented as characters, then as 2D/2.5D sprites , finally as 3D models (possibly all modes free to choose by player)
+- simultaneous turns
+- initially represented as characters, then as 2D/2.5D sprites , finally as 3D models (all modes free to choose by player)
 - realistic graphic style
-- initially without sound effects and music, then with them
 
 Advanced:
 
@@ -39,4 +29,11 @@ Loose ideas:
 
 - lost games affect next ones like corpse of player or things changed in universum
 - world and its history is generated each time the game is played
-- unfair difficulty, situations impossible to reslove, " cheating " characters - just like in life
+- unfair difficulty, situations impossible to reslove, " cheating " characters
+
+INSPIRATIONS:
+
+- Fallout series by Black Isle Studios/Bethesda Game Studios - as core inspiration in general and as the biggest one to create very own game
+- Jupiter Hell and DRL by ChaosForge - as inspiration from technical and mechanical point of view
+- Silent Hill 2 by Team Silent - as inspiration for deep mature emotional and disturbing stories and meaningful personalities
+- Planescape: Torment by Black Isle Studios - as inspiration for meaningful dialogues, philosophical deepness of story and characters
