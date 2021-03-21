@@ -11,7 +11,7 @@ Core:
 - Commercial closed-source
 - Coded in Kotlin in Android Studio
 
-Basics:
+Basic:
 
 - simultaneous turns
 - initially represented as characters, then as 2D sprites , finally as 3D models (all modes free to choose by player)
@@ -24,12 +24,6 @@ Advanced:
 - expanded universe with lot of text to read
 - presence of charismatic and believable characters
 - hardcore difficulty and high realism
-
-Loose ideas:
-
-- lost games affect next ones like corpse of player or things changed in universum
-- world and its history is generated each time the game is played
-- unfair difficulty, situations impossible to reslove, " cheating " characters
 
 INSPIRATIONS
 
