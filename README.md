@@ -31,7 +31,7 @@ Loose ideas:
 - world and its history is generated each time the game is played
 - unfair difficulty, situations impossible to reslove, " cheating " characters
 
-INSPIRATIONS:
+INSPIRATIONS
 
 - Fallout series by Black Isle Studios/Bethesda Game Studios - as core inspiration in general and as the biggest one to create very own game
 - Jupiter Hell and DRL by ChaosForge - as inspiration from technical and mechanical point of view
