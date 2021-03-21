@@ -9,7 +9,7 @@ Core:
 - Mobile
 - Roguelike set in realistic historically alternative post-nuclear universe
 - Commercial closed-source
-- Coded in Kotlin in Android Studio
+- Coded in Kotlin in Android Studio using custom engine
 
 Basic:
 
