@@ -7,14 +7,14 @@ FEATURES
 Core:
 
 - Mobile
-- Roguelike set in realistic historically alternative post-nuclear universe (after 1983 nuclear crisis turned into doomsday)
+- Roguelike set in realistic historically alternative post-nuclear universe
 - Commercial closed-source
 - Coded in Kotlin in Android Studio
 
 Basic:
 
 - simultaneous turns
-- initially represented as characters, then as 2D sprites , finally as 3D models (all modes free to choose by player)
+- ASCII characters, 2D sprites and 3D models graphic modes free to choose
 - realistic graphic style
 
 Advanced:
@@ -23,7 +23,7 @@ Advanced:
 - deep dialogue system
 - expanded universe with lot of text to read
 - presence of charismatic and believable characters
-- hardcore difficulty and high realism
+- hardcore difficulty and extreme realism
 
 INSPIRATIONS
 
