@@ -7,7 +7,7 @@ FEATURES
 Core:
 
 - Mobile
-- Roguelike/Roguelite set in realistic historically alternative post-nuclear universe (after 1983 nuclear crisis turned into doomsday)
+- Roguelike set in realistic historically alternative post-nuclear universe (after 1983 nuclear crisis turned into doomsday)
 - Commercial closed-source
 - Coded in Kotlin in Android Studio
 
