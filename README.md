@@ -14,7 +14,7 @@ Core:
 Basics:
 
 - simultaneous turns
-- initially represented as characters, then as 2D/2.5D sprites , finally as 3D models (all modes free to choose by player)
+- initially represented as characters, then as 2D sprites , finally as 3D models (all modes free to choose by player)
 - realistic graphic style
 
 Advanced:
