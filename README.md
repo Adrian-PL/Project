@@ -1,4 +1,7 @@
 # Project
+
+CURRENT STATE OF THE PROJECT - Concepts only
+
 FEATURES
 
 Core:
