@@ -6,7 +6,7 @@ FEATURES
 
 Core:
 
-- no name yet
+- No name yet
 - Mobile
 - Roguelike set in realistic historically alternative post-nuclear world
 - Commercial closed-source
