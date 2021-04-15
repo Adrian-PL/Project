@@ -21,7 +21,7 @@ Advanced:
 
 - original RPG system
 - deep dialogue system
-- expanded universe with lot of text to read
+- expanded lore with a lot of text to read
 - presence of charismatic and believable characters
 - hardcore difficulty and extreme realism
 
