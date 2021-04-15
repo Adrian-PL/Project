@@ -1,4 +1,4 @@
-# Project
+# Mobile roguelike
 
 CURRENT STATE OF THE PROJECT - Concepts only
 
@@ -6,6 +6,7 @@ FEATURES
 
 Core:
 
+- no name yet
 - Mobile
 - Roguelike set in realistic historically alternative post-nuclear world
 - Commercial closed-source
