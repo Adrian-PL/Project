@@ -1,6 +1,6 @@
 # Mobile roguelike
 
-STATE OF THE PROJECT - General concepts and storyline only due to current priority of job-related programming and temporarily insufficient skills to start developing such sophisticated software.
+STATE OF THE PROJECT - General concepts and storyline only due to current priority of job-related programming.
 
 FEATURES
 
