@@ -10,7 +10,7 @@ Core:
 - Mobile
 - Classic roguelike
 - Set in a consistent with the history and realistic post-nuclear world
-- Coded using Kotlin
+- Developed using Kotlin
 - Target devices - Android first and iOS in the future
 
 Basic:
