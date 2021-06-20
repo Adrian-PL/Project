@@ -23,7 +23,7 @@ Basic:
 Advanced:
 
 - original RPG system
-- deep dialogue system
+- deep dialogues
 - expanded lore with a lot of text to read
 - presence of charismatic and believable characters
 - hardcore difficulty and extreme realism
