@@ -9,7 +9,7 @@ Core:
 
 - No name yet
 - Mobile
-- Classic roguelike
+- Middle ground between rogue-likes and -lites - More like a classic roguelike rather than non-orthodox roguelite though
 - Set in a consistent with the history and realistic post-nuclear world
 - Developed using Kotlin
 - Target devices - Android first and iOS in the future
