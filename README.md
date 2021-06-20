@@ -33,6 +33,6 @@ INSPIRATIONS
 - Fallout series by Black Isle Studios/Bethesda Game Studios - as an core inspiration in general and as the biggest one to create very own game
 - Jupiter Hell by ChaosForge - as general inspirations from technical and mechanical point of view
 - Pixel Dungeon by watabou - as an inspiration for being a rare case of succesful and very intuitive mobile roguelike
-- Silent Hill 2 by Team Silent - as an inspiration for deep mature emotional and disturbing stories and meaningful personalities
+- Silent Hill 2 by Team Silent - as an inspiration for deep, mature, emotional and disturbing stories and meaningful personalities
 - Planescape: Torment by Black Isle Studios - as an inspiration for meaningful dialogues, philosophical deepness of story and characters
 - Dwarf Fortress by Bay 12 Games - as general inspiration for complexity of mechanics
