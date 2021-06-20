@@ -1,7 +1,7 @@
 # Mobile roguelike
 DISCLAIMER - Some of attributes listed here are subject to change
 
-STATE OF THE PROJECT - General concepts and storyline (not listed here yet) only due to current priority of job-related programming
+STATE OF THE PROJECT - General concepts and storyline (not included here yet) only due to current priority of job-related programming
 
 FEATURES
 
