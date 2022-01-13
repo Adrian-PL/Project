@@ -10,7 +10,7 @@ Core:
 - No name yet
 - Target devices - Mobile and PC in the future
 - Middle ground between rogue-likes and -lites - More like a classic roguelike rather than non-orthodox roguelite though
-- Set in a realistic and althist post-nuclear world
+- Set in a realistic and an althist post-nuclear world
 - Developed using Kotlin
 - Target platforms - Android first (later iOS) and Windows (later Linux) in the future
 
