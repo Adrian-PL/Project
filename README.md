@@ -7,7 +7,7 @@ FEATURES
 
 Core:
 
-- No name yet
+- Title - Mutual Assured Destruction (MAD)
 - Target devices - Mobile and PC in the future
 - Middle ground between rogue-likes and -lites - More like a classic roguelike rather than non-orthodox roguelite though
 - Set in a realistic and an althist post-nuclear world
@@ -17,15 +17,15 @@ Core:
 Basic:
 
 - simultaneous turns
-- ASCII characters, 2D sprites and 3D models graphic modes free to choose
+- ASCII characters (first), 2D sprites (later) and 3D models graphic modes free to choose (much later)
 - realistic graphic style
 
 Advanced:
 
-- original RPG system
-- deep dialogues
+- original RPG scheme
+- deep dialogue system
 - expanded lore with a lot of text to read
-- presence of charismatic and believable characters
+- presence of interesting and believable characters
 - hardcore difficulty and extreme realism
 
 INSPIRATIONS
@@ -35,4 +35,4 @@ INSPIRATIONS
 - Pixel Dungeon by watabou - as an inspiration for being a rare case of succesful and very intuitive mobile roguelike
 - Silent Hill 2 by Team Silent - as an inspiration for deep, mature, emotional and disturbing stories and meaningful personalities
 - Planescape: Torment by Black Isle Studios - as an inspiration for meaningful dialogues, philosophical deepness of story and characters
-- Dwarf Fortress by Bay 12 Games - as general inspiration for complexity of mechanics
+- Dwarf Fortress by Bay 12 Games - as general inspiration for the complexity of mechanics
