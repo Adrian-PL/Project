@@ -7,7 +7,7 @@ FEATURES
 
 Core:
 
-- Title - Mutual Assured Destruction (MAD)
+- Title - Mutually Assured Destruction (MAD)
 - Target devices - Mobile and PC in the future
 - Middle ground between rogue-likes and -lites - More like a classic roguelike rather than non-orthodox roguelite though
 - Set in a realistic and an althist post-nuclear world
