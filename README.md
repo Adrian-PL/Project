@@ -1,4 +1,4 @@
-# Mobile roguelike
+# Mutually Assured Destruction
 DISCLAIMER - Some of attributes listed here are subject to change
 
 STATE OF THE PROJECT - General concepts and storyline only (not included here yet) due to current priority of the education-related programming
