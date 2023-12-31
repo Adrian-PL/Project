@@ -8,11 +8,10 @@ FEATURES
 Core:
 
 - Title - Mutually Assured Destruction (MAD)
-- Target devices - Mobile and PC in the future
-- Middle ground between rogue-likes and -lites - More like a classic roguelike rather than non-orthodox roguelite though
-- Set in a post-nuclear world based on an alternative history scenario (Autumn Forge 83 going awry)
 - Developed using Kotlin and LittleKt
 - Target platforms - Android/iOS
+- Middle ground between rogue-likes and -lites - More like a classic roguelike rather than non-orthodox roguelite though
+- Set in a post-nuclear world based on an alternative history scenario (Autumn Forge 83 going awry)
 
 Basic:
 
